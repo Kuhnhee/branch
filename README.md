@@ -11,3 +11,4 @@
 - `git remote add [저장소이름] [저장소주소]`
 - `git remote` : 원걱저장소의 리스트(이름)
 - `git remote -v` : 원격저장소의 리스트(이름, 주소)
+
