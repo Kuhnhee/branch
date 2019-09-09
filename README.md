@@ -17,3 +17,5 @@
 - `git branch [브랜치이름]` : 새로운 Branch 생성
 - `git checkout [브랜치이름]` & `git switch [브랜치이름]` : Branch 이동
 - `git branch -d [브랜치이름]` : Branch 삭제
+- `git branch -b [브랜치이름]` & `git switch -c [브랜치이름]` : Branch 생성 & 이동
+- `git merge [브랜치이름]` : 현재 Branch에서 특정 Branch를 병합
