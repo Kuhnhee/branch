@@ -12,3 +12,8 @@
 - `git remote` : 원걱저장소의 리스트(이름)
 - `git remote -v` : 원격저장소의 리스트(이름, 주소)
 
+### Git 브랜치(branch)
+- `git branch` : Branch 리스트 출력
+- `git branch [브랜치이름]` : 새로운 Branch 생성
+- `git checkout [브랜치이름]` & `git switch [브랜치이름]` : Branch 이동
+- `git branch -d [브랜치이름]` : Branch 삭제
