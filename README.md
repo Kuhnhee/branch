@@ -23,3 +23,7 @@
 1. fast-forward merge
 2. auto merge (without conflict)
 3. merge with conflict
+
+## Conflict는 뭘까...
+### Conflict의 정의
+아무내용
