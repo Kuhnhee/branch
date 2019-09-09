@@ -1,4 +1,4 @@
-# Git Branch
+﻿# Git Branch
 
 ## Git 기초
 - `git init`
@@ -24,6 +24,7 @@
 2. auto merge (without conflict)
 3. merge with conflict
 
-## Conflict는 뭘까...
-### Conflict의 정의
-아무내용
+
+## Conflict 해결방법
+### conflict 발생조건
+- 동일 라인으 내용이 다를 경우 (동일 파일은 조심히)
